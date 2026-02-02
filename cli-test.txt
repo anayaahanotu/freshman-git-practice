@@ -1,0 +1,6 @@
+Git Command Line Practice
+
+Name:
+Date:
+
+This file was added and committed using the terminal.
